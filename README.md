@@ -1,1 +1,1 @@
-# Implemented Logistic Regression with L2 regularization from scratch Using Stochastic Gradient Descent(SGD) without using sklearn
+# Implemented Logistic Regression with L2 regularization from scratch with Stochastic Gradient Descent(SGD) without using sklearn
